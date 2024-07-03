@@ -1,4 +1,4 @@
-#vcspy
+vcspy
 
 
 small python script to unpack and pack source 1's .vcs (valve compiled shader), files.
