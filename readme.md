@@ -1,4 +1,4 @@
-#vcspy
+vcspy
 
 
 small python script to unpack and pack source 1's .vcs (valve compiled shader), files.
@@ -8,6 +8,8 @@ this is mainly intended to be used for mass decompilation and recompilation for 
 doesnt do dupe records as it seems they are not needed.
 can in theory make new vcs files but really shouldnt
 
+
+the script is messy in some places but i wont fix thoose as it works.
 
 usage:
 
